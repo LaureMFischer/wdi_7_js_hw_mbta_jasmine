@@ -9,3 +9,5 @@ Let's revisit the [MBTA homework](https://github.com/ga-wdi-boston/wdi_7_js_lab_
 * Write Jasmine tests for all of the functions in your classes, including the initializers if you have any
 
 Remember to make small incremental commits with descriptive messages, and submit a PR when finished.
+
+Testing connection to GitHub...
